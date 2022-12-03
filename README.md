@@ -13,8 +13,6 @@ Skills: REACT / JS / HTML / CSS / NODE / EXPRESS
 - 📫 How to reach me: inzamum.inu@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Inzamum-Ul-Haque)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/inzamum-ul-haque/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/inzamum.ulhaque)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://inzamum-ul-haque.github.io/portfolio-website-react/)  
-
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inzamum-Ul-Haque)](https://github.com/anuraghazra/github-readme-stats)
@@ -26,3 +24,5 @@ Skills: REACT / JS / HTML / CSS / NODE / EXPRESS
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Inzamum-Ul-Haque)  
 
 ![Profile views](https://gpvc.arturio.dev/Inzamum-Ul-Haque)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Inzamum-Ul-Haque)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/inzamum-ul-haque/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/inzamum.ulhaque)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://inzamum-ul-haque.github.io/portfolio-website-react/)  
