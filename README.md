@@ -3,7 +3,7 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Hi, I'm Inzamum-Ul-Haque</h1>
 
 <p align:"left" style="text-align: justify; font-size: 17px;" >
-    I am focused on pursuing a career in web development. With such a strong interest in this field, I am keen to learn new libraries and frameworks while sharpening my present skills and abilities. I enjoy working in groups and am eager to use my coding skills to create high-quality solutions.
+    Focused on pursuing a career in web development sector, seeking for a junior web developer position and constantly learning new things to improve myself. With such a strong interest in this field, I am developing my skills in a way to build full stack responsive websites to improve user experience. I enjoy working in teams and am eager to use my coding skills to provide high quality solutions. 
 <br>
 <br>
 <div align="left">
