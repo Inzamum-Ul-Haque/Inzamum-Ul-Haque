@@ -96,8 +96,6 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Inzamum-Ul-Haque&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 
-![GitHub metrics](https://metrics.lecoq.io/Inzamum-Ul-Haque)
-
 </div>
 <!--  End Stats Cards -->
 
